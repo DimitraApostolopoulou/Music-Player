@@ -1,0 +1,49 @@
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Player.exe.config
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Player.exe
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\bin\Debug\Music Player.pdb
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.exe
+c:\users\demi\documents\visual studio 2015\Projects\Music Player\Music Player\obj\Debug\Music Player.pdb
+C:\Users\Demi\Desktop\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\Demi\Desktop\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Demi\Desktop\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Demi\Desktop\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\Demi\Desktop\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\Demi\Desktop\Music Player\Music Player\obj\Debug\Music Player.pdb
+C:\Users\Demi\Desktop\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\Demi\Desktop\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\Demi\Desktop\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Demi\Desktop\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Demi\Desktop\Music Player\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+C:\Users\Demi\Desktop\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Demi\Desktop\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Demi\Desktop\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+C:\Users\Demi\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\Demi\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Demi\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Demi\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\Demi\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\Demi\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music Player.pdb
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\Δήμητρα\Documents\Σχολη\Πανεπιστημιο Πειραια\C#\Σεπτεμβρης 2017\Music Player\Music Player\obj\Debug\Music Player.pdb
